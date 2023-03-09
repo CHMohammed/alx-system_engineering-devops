@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod new-owner hello
+chmod betty hello
