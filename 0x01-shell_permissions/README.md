@@ -1,2 +1,2 @@
 #!/bin/bash
-SimoCH
+its a diffrent experience
