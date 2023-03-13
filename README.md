@@ -1,1 +1,2 @@
-diffrent experience
+#!/bin/bash
+hello
